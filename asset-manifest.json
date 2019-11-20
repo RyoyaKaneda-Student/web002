@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RyoyaKaneda-Student/web002.git/static/css/main.b100e6da.chunk.css",
+    "main.js": "/RyoyaKaneda-Student/web002.git/static/js/main.18363580.chunk.js",
+    "main.js.map": "/RyoyaKaneda-Student/web002.git/static/js/main.18363580.chunk.js.map",
+    "runtime-main.js": "/RyoyaKaneda-Student/web002.git/static/js/runtime-main.46b77397.js",
+    "runtime-main.js.map": "/RyoyaKaneda-Student/web002.git/static/js/runtime-main.46b77397.js.map",
+    "static/js/2.63408274.chunk.js": "/RyoyaKaneda-Student/web002.git/static/js/2.63408274.chunk.js",
+    "static/js/2.63408274.chunk.js.map": "/RyoyaKaneda-Student/web002.git/static/js/2.63408274.chunk.js.map",
+    "index.html": "/RyoyaKaneda-Student/web002.git/index.html",
+    "precache-manifest.aa73562746f0e8f873bf0171d72496a3.js": "/RyoyaKaneda-Student/web002.git/precache-manifest.aa73562746f0e8f873bf0171d72496a3.js",
+    "service-worker.js": "/RyoyaKaneda-Student/web002.git/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/RyoyaKaneda-Student/web002.git/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/RyoyaKaneda-Student/web002.git/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b77397.js",
+    "static/js/2.63408274.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.18363580.chunk.js"
+  ]
+}
